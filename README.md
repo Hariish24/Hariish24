@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Full stack developer
 - 💞️ I’m looking to collaborate on code
-- 📫 How to reach me @hariish24
+- 📫 How to reach me on instagram @hariish24
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
