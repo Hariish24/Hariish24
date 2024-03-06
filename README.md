@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Full stack developer
 - 💞️ I’m looking to collaborate on code
 - 📫 How to reach me on instagram @hariish24
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+  
 
 <!---
 Hariish24/Hariish24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
