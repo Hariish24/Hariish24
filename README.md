@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hariish24
+- 👋 Hi, I’m Harish
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Full stack developer
 - 💞️ I’m looking to collaborate on code
